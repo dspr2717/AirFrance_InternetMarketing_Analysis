@@ -7,7 +7,7 @@ with the Spreadsheet Supplement is provided to help the analytics.
 https://hbsp.harvard.edu/product/KEL319-PDF-ENG
   
 ## Objective
-Analyze summarized campaign metrics to determine optimal strategy to pursue for each publisher.
+Analyze summarized campaign metrics to determine optimal strategy to pursue for each publisher
 
 ## Analysis
 • Identified Key Performance Indicators such as CTR, CPC, TCR and created new metrics such as Net Revenue, ROI, Take Rate (The formulas are explained in the pdf file) <br>
