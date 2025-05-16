@@ -1,5 +1,5 @@
 # Air France Internet Marketing
-This is a course project (Done in two Assisgments) that I did at MIS 6344 Web Analytics in JSOM UTD.
+This is a course project (Done in two Assisgments) that I did at IT 7071C Machine Learning and Data Mining for IT, Azure Data Engineering at University of Cincinnati.
 Report "Air France Internet Marketing: Optimizing Google, Yahoo!, MSN, and Kayak Sponsored Search" 
 with the Spreadsheet Supplement is provided to help the analytics.
 
